@@ -3,7 +3,9 @@ Python Training in Tamil related Contents
 
 DAY 1 - Welcome to Python
 -------------------------
-Python
+What is Python
+Purpose of Python
+Flavors of Python
 Interpreter vs compiler
 High-level  Vs Low-Level
 Programming Paradigm
@@ -12,8 +14,7 @@ Dynamically typed
 History
 Usage
 Real-world applications
-Flavors
-Adv/Disadv
+Adv/Disadvantages
 Old Versions
 New versions/upcoming
 Validate versions on different os types
@@ -21,20 +22,23 @@ Installation
 IDE 
 Different IDE's
 
+-------------------------------------------
+Dynamically Typed:
 
-C, C++, C#
+C, C++, C# :
 int a = 10;
 int b = 10;
+int c = a + b;
 
-
+Python:
 a = 10
 b = 10
 c = a + b
-d
 
+-------------------------------------------
 
-Storage Admin
--------------
+Storage Admin Tasks
+-------------------
 L1 task - File share creation
 L2 task - Replication configuration
 Ticketing/Not-ticketing
@@ -53,12 +57,9 @@ Javascript
 
 Data type
 ---------
-
 integer --> number --> 0,1,2,3,34254545
 character --> a, b, c, d
 string --> Neopolean
 boolean --> true, false
 
 IDE - Integrated Development Environment
-
-
