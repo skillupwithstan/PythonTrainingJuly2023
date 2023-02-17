@@ -1,0 +1,32 @@
+What is Python?
+---------------
+Python is one of the most popular programming languages in the world. 
+Created in the early 1990s, it enjoys a widerange of uses, from automating repetitive tasks and writing web apps to building machine learning models and implementing neural networks. 
+Researchers, mathematicians, and data scientits like Python because of its rich and easy to understand syntax and the wide range of open-source packages available. 
+Packages are commonly used, shared code libraries that are freely available for anyone to use.
+
+Python has a simple, easy to learn syntax, which emphasizes readability. 
+Applications written in Python can run on almost any computer, including those running Windows, macOS, and popular distributions of Linux. 
+Furthermore, the ecosystem contains a rich set of development tools for writing, debugging, and publishing Python applications.
+
+Python is an interpreted language, which reduces the edit-test-debug cycle because there's no compilation step required. 
+
+Python implementations
+----------------------
+Python is licensed under the OSI open-source license, and there are several implementations available depending on the needs. Here are a few of the options available:
+
+CPython:	
+The most popular is the reference implementation (CPython), available from the Python website. 
+CPython is commonly used for web development, application development, and scripting. There are install packages for Windows and macOS. Linux users can install Python using built-in package managers such as apt, yum, and Zypper. 
+There is also an online playground where you can try Python statements right on the website. Finally, the complete source code is available, allowing you to build your own version of the interpreter.
+
+Anaconda: 
+Anaconda is a specialized Python distribution tailored for scientific programming tasks, such as data science and machine learning. Check out more details on Anaconda here.
+
+Iron Python: 
+Iron Python is an open-source implementation of Python built on the .NET runtime. Learn more about IronPython.
+
+Jupyter Notebook: 
+
+Jupyter Notebook is a web-based interactive programming environment that supports various programming languages, including Python. 
+Jupyter Notebooks are widely used in research and academia for mathematical modeling, machine learning, statistical analysis, and for teaching and learning how to code.
