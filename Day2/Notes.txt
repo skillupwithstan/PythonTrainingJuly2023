@@ -1,0 +1,30 @@
+1.Recap of Day1
+2.Questions if any
+3.New Topics:
+  IDE
+  VSC
+  Debugging
+  Identifiers
+  Variables
+  Data Types
+  Dealing with Numbers
+  Dealing with Strings
+  Data Type Conversion
+  Type conversion types - Implicit Conversion & Explicit Conversion
+  
+Functions/Methods:
+1. System defined functions (In-built functions)
+2. User defined functions
+
+VSC - IDE
+---------
+Supports multiple platforms/lang (powershell, python, c#, etc.,)
+1. Install VSC --> https://code.visualstudio.com/Download
+2. Enable/Install Python Extensions
+3. Create own folder --> To write your codes/lab exercises
+
+Variables
+---------
+Two types variables
+1. Static variable ---> a = 10, name = Arockia
+2. Dynamic variable --> c = a+b, name = input("Enter your name")
