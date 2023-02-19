@@ -3,7 +3,7 @@ Author:
 Description:
 Purpose:
 Version History: 
-Input paramters:
+Input parameters:
 Output parameters:
 '''
 
