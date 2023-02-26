@@ -1,0 +1,82 @@
+Basic String Operations
+-----------------------
+String Concatenation
+Escaping Characters
+Slicing
+Get Length Of a String
+Replace Method
+Find Occurrence of a Character
+Join Method
+Split Method
+String Formatting
+Case Change – Lower, Upper
+Space & Character 
+
+************************************************************
+
+String Traversal 
+----------------
+String --> Arockia
+           0123456
+
+A --> 0 / -7
+r --> 1 / -6
+o --> 2 / -5
+c --> 3 / -4
+k --> 4 / -3
+i --> 5 / -2
+a --> 6 / -1
+
+
+************************************************************
+
+Case Change
+-----------
+servername = "abc.google.com"
+
+if(upper("google") == "GOOGLE")
+
+************************************************************
+delimiters - ";", ":","-"
+
+String Input
+------------
+a = "server1;server2;server3"
+b = "server1-server2-server3"
+c = "server1:server2:server3"
+
+Convert to List
+---------------
+a.split(";")
+server1
+server2
+server3
+
+b.split("-")
+server1
+server2
+server3
+
+c.split(":")
+server1
+server2
+server3
+
+************************************************************
+Variable Override
+-----------------
+Example:
+apac.com --> emea.com
+source --> destination
+
+domain = APAC
+domain = EMEA
+
+The expected value of DNS domain suffix is : domain
+After the changes in current value : domain
+************************************************************
+
+Methods/Functions ---> to perform some action
+Type of Calling a functions
+1. string.functionname()
+2. functionname(string)
