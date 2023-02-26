@@ -1,0 +1,15 @@
+Ex-1:
+----
+Input: Get three servername from the users
+Sample Inputs: server1,server2,server3
+
+Expected Output: list down all the servers like below.
+you have entered the list of servers: server1,server2,server3
+
+Ex-2:
+-----
+Input: "Enter the cloud environments (Use ',' for multiple values)"
+Sample Inputs: dfd,dsf,dsfg,dsg,fdg,fdg,fdg,fdg
+
+Expected Output:
+The second element is : dsf
