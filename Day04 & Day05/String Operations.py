@@ -37,6 +37,24 @@ print("User Name:", firstname + "-" + lastname)
 
 ######################################################
 
+#Join multiple Strings - concatenates a list of strings together.
+
+x = " ".join(["This", "is", "Awesome"])  #"This" + " " + "is" + " " + "Awesome"
+print(x)
+
+######################################################
+
+#Splitting the String - Sub String
+text = "Red Apple"
+print(text)
+print(type(text))
+print(text.split())  # print(text.split(" "))    
+print(text.split()[0] + "\n" + text.split()[1])
+print(type(text.split())) # Prints: ['Red', 'Apple']
+print(text.split('l'))
+
+######################################################
+
 #Sring Formatting
 #Example - 1
 msg1 = 'Running {} out of {} servers.'
@@ -52,6 +70,12 @@ print(msg2.format(name='localhost', ip='53.23.12.4', port='443'))
 greetings = "Welcome To Python"
 print(greetings.lower())
 print(greetings.upper())
+
+######################################################
+
+#Change Title 
+heading = "dark knight"
+print(heading.title())
 
 ######################################################
 
@@ -71,23 +95,6 @@ print(text2.strip('.+-'))
 
 ######################################################
 
-#Change Title 
-heading = "dark knight"
-print(heading.title())
-
-######################################################
-
-#Splitting the String - Sub String
-text = "Red Apple"
-print(text)
-print(type(text))
-print(text.split())  # print(text.split(" "))    
-print(text.split()[0] + "\n" + text.split()[1])
-print(type(text.split())) # Prints: ['Red', 'Apple']
-print(text.split('l'))
-
-######################################################
-
 #Find first occurance of a character index in a string
 mountain_name = "Mount Everest"
 print(mountain_name.find('Good'))
@@ -101,12 +108,5 @@ print(mountain_name.find('Good'))
 fruit = "Apple"
 print(fruit.replace('Apple', 'Mango'))
 print(fruit)
-
-######################################################
-
-#Join multiple Strings - concatenates a list of strings together.
-
-x = " ".join(["This", "is", "Awesome"])  #"This" + " " + "is" + " " + "Awesome"
-print(x)
 
 ######################################################
