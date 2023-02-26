@@ -99,9 +99,6 @@ print(text2.strip('.+-'))
 mountain_name = "Mount Everest"
 print(mountain_name.find('Good'))
 
-#if(mountain_name.find('Good') > -1):
-#    print("This key word is not found")
-
 ######################################################
 
 #Replace a character/string
