@@ -1,0 +1,35 @@
+Welcome to Python (in Tamil) - Day 6
+====================================
+
+1. Operators - Arithmetic operators, Logical operators, Assignment Operator, Relational Operators
+
+2. Control Structures
+------------------
+Control Structures are used to control the flow of execution in a Python program. 
+
+Sometimes, it is required to skip execution of few statements based on the logic and in some cases, a set of statements may be needed to get executed repeatedly for a finite number of times or based on the value of the variable.
+
+
+If 	-- Executes the statements inside the ‘if’ block, only if the evaluated condition is true. Also called as One-way selection statement.
+If-Else 	-- 	Executes the statements inside the ‘if’ block, only if the evaluated condition is true. Else, the statements inside the ‘else’ block are executed.Also called as Two-way selection statement.
+Else-If ladder -- 	Executes the statements inside the ‘if’ block, else it goes to the next ‘else if’. If it evaluates ‘True’, the control comes out of the else-if ladder. If ‘True’ is never evaluated in any of the test conditions, the statements inside the else block are executed. Also called as Multi way selection statement.
+Nested If  --	An if statement within another if statement is known as nested if statement
+
+
+Syntax:
+-------
+if (condition):  ==> TRUE/FALSE
+	#block - set of statements
+	if(condition):
+		#set of codes
+	dgf
+	dg	
+elif(condition):
+	#set of statements
+	if(condition):
+elif(condition):
+	#set of statements
+elif(condition):
+	#set of statements
+else:
+ 	#set o statements
