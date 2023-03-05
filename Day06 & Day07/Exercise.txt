@@ -1,0 +1,9 @@
+1. Get a number from user & verify the entered number is a multiple of 3, multiple of 5 and multiple of both 3 & 5.
+2. Create a script to get values from user for mathematical calculator based on users input.
+
+Sample Input & Output: 
+----------------------
+Enter first no: 10
+Enter second no: 20
+Which operation would you like to perform (1. Addition, 2. Substraction, 3. Multiplication, 4. Division): Addition
+The result is : 30
