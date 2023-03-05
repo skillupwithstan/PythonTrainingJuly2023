@@ -33,3 +33,23 @@ elif(condition):
 	#set of statements
 else:
  	#set o statements
+
+Welcome to Python in Tamil - Day 07
+-----------------------------------
+
+1. Recap
+2. Looping
+3. Lab session - Operators, Conditional stmt, Looping
+
+foreach in .NET --> for in python
+
+Range function in for loop
+1,7
+1,2,3,4,5,6 ==> step - 2
+1   3   5 
+
+control statements:
+-------------------
+pass - Nothing to perform
+break - to stop the execution of loop 
+continue - to move next iteration
