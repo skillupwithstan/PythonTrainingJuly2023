@@ -1,0 +1,19 @@
+Day 08: Collections
+-------------------
+
+1. Q & A
+2. Quick Recap
+3. Collections
+   3.1. String --> multiple/set of characters - IMMUTABLE (readonly)
+   3.2. List   --> set of strings/numbers/alphanumeric - MUTABLE (writable)
+   3.3. Tuple  --> set of strings/numbers/alphanumeric - IMMUTABLE (readonly)
+   3.4. Set    --> accepts only unique values - eliminates duplicate data - Unordered
+   3.5. Dictionary --> key-value pair (MUTABLE)
+
+
+Dictionary Example:
+-------------------
+
+Incident Number : INC324324
+Servername : Server1
+IP address : 23.5.53.5
