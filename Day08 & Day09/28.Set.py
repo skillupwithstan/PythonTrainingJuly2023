@@ -31,6 +31,6 @@ set_A = {100,102,104,106,108,110}
 set_B = {98,95,100,101,105,107,108}
 print("SET - A: ",set_A)
 print("SET - B: ",set_B)
-print(set_A & set_B)
-print(set_A - set_B)
-print(set_A | set_B)
+print(set_A & set_B) # To fetch common elements from both sets
+print(set_A - set_B) # To fetch unique elements from set A which is not available in set B
+print(set_A | set_B) # To fetch all elements from set A & set B
