@@ -1,6 +1,8 @@
 # create an empty set
 empty_set = set() #{}
 print(empty_set)
+
+# create a set with values
 value_set = {34,64}
 print(value_set)
 
@@ -8,20 +10,24 @@ print(value_set)
 network_id = {120, 112, 114, 116, 118, 115}
 print('Network ID:', network_id)
 
-#Removed duplicates
+# It removes duplicates by default
 network_id = {120, 112, 112, 118, 118, 115}
 print('Network ID:', network_id)
 
+# Built-in functions for integers sets
 print(max(network_id))
 print(min(network_id))
 
 # create a set of mixed data types
 mixed_set = {'Storage', 101, -2, 'Database'}
 print('Set of mixed data types:', mixed_set)
-network_id = {120, 112, 114, 116, 118, 115}
+
+# Adding new elements
 mixed_set.add("Arockia")
 mixed_set.update(network_id)
 print("After Merging: ",mixed_set)
+
+# Removing an elements from the set
 mixed_set.remove(-2)
 print("After removal of -2: ",mixed_set)
 print(len(mixed_set))
