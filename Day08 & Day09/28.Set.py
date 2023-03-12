@@ -1,12 +1,12 @@
-# create an empty set
+# Create an empty set
 empty_set = set() #{}
 print(empty_set)
 
-# create a set with values
+# Create a set with values
 value_set = {34,64}
 print(value_set)
 
-# create a set of integer type
+# Create a set of integer type
 network_id = {120, 112, 114, 116, 118, 115}
 print('Network ID:', network_id)
 
@@ -18,7 +18,12 @@ print('Network ID:', network_id)
 print(max(network_id))
 print(min(network_id))
 
-# create a set of mixed data types
+# Sorting in Ascending order
+print("SORTED VALUE: ",sorted(network_id))
+# Sorting in Descending order
+print("SORTED VALUE: ",sorted(network_id,reverse=True))
+
+# Create a set of mixed data types
 mixed_set = {'Storage', 101, -2, 'Database'}
 print('Set of mixed data types:', mixed_set)
 
@@ -32,7 +37,7 @@ mixed_set.remove(-2)
 print("After removal of -2: ",mixed_set)
 print(len(mixed_set))
 
-#Set Operations
+# Set Operations
 set_A = {100,102,104,106,108,110}
 set_B = {98,95,100,101,105,107,108}
 print("SET - A: ",set_A)
