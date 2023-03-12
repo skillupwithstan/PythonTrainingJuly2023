@@ -1,6 +1,5 @@
 Day 08: Collections
 -------------------
-
 1. Q & A
 2. Quick Recap
 3. Collections
@@ -10,10 +9,39 @@ Day 08: Collections
    3.4. Set    --> accepts only unique values - eliminates duplicate data - Unordered
    3.5. Dictionary --> key-value pair (MUTABLE)
 
-
-Dictionary Example:
+Dictionary Example: To display output like below and handle the output of API like key-value pair.
 -------------------
-
 Incident Number : INC324324
 Servername : Server1
 IP address : 23.5.53.5
+
+Definitions:
+------------
+Collection:
+--> When we want to treat some data as a group, it would not be good to create individual variables for each data. We can store them together as a collection.
+There are many collection data types which are supported by Python.
+
+1. String
+2. List
+3. Tuple
+4. Set
+5. Dictionary
+
+List:
+It can be used to store a group of elements together in a sequence.
+If we want to store the port numbers allocated to each networks, instead of using separate variables for each port number, we can use a list as shown below. 
+
+port_no1 = 80 
+port_no2 = 443                       -->   port_nos = [80, 443, 22]
+port_no3 = 22
+
+Each element in the list has a position in the list known as an index. The list index starts from zero.
+
+Tuple:
+Like List, Tuple can also store a sequence of elements, but the value of the individual elements cannot be changed. (i.e., tuples are IMMUTABLE). Elements can be homogeneous or heterogeneous, but they are READ-ONLY.
+
+Set:
+A set is an unordered group of values with no duplicate entries ie., A set is a collection of unique data. Set can be created by using the keyword set or by using curly braces {}. The set function is used to eliminate duplicate values in a list.
+
+Dictionary:
+A dictionary can be used to store an unordered collection of key-value pairs. The key should be unique and can be of any data type. Like lists, dictionaries are mutable.
