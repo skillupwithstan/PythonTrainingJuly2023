@@ -1,0 +1,5 @@
+1. Create a record with Employee Data like EmpID, Emp Name, DoB, DoJ, etc.,
+Hint: Use any collection types.
+
+2. Create Server Data like OS, CPU, Memory, AV, etc.,
+Hint: Use Immutable (Read-Only) collection types.
