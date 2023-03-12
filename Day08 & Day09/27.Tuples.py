@@ -13,6 +13,6 @@ print(len(sample_tuple))
 #Access Tuple element
 print(sample_tuple1[0])
 
-# Update Tuple element
+# Tuple doesn't change/modify the existing element value - IMMUTABLE
 sample_tuple1[0] = 5
 print(sample_tuple1)
