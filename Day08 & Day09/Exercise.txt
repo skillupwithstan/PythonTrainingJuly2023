@@ -1,5 +1,11 @@
 1. Create a record with Employee Data like EmpID, Emp Name, DoB, DoJ, etc.,
 Hint: Use any collection types.
 
+1.1. Fetch last employee ID
+1.2. Fetch First employee name
+
 2. Create Server Data like OS, CPU, Memory, AV, etc.,
 Hint: Use Immutable (Read-Only) collection types.
+
+2.1. Display CPU & Memory Details
+2.2. Merge OS & AV details example: "Windows - Defender"
