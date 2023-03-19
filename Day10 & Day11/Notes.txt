@@ -11,4 +11,48 @@ Today's Topics:
  - Append the content
  - Closing a file
  
- Use with block option for file handling.
+Use with block option for file handling.
+
+Oops --> Object oriented programming system
+===========================================
+
+Programming paradigm - procedural, functional, etc.,
+
+Object --> anyting in the world
+
+Coding ==> Data Input + Processing + Data Output
+
+
+Rule --> Windows - Disk Threshold - 90% - Monitoring tools 
+server1 - 90% - Alert (Incident) - SNOW/Remedy
+
+Example - 1:
+
+Object --> Car
+Properties --> Model, Make, Color
+Methods --> Start, Stop, Break
+
+Example - 2:
+ 
+object --> services
+properties --> name, description
+methods --> start, stop
+
+Class
+=====
+
+Blueprint of object
+
+class Vehicle:
+   class Van:
+      properties & methods
+   class Bike:
+      properties & methods
+   class Cars:
+	properties & methods
+
+type(variable)
+
+class <str>
+class <int>
+class <list>
