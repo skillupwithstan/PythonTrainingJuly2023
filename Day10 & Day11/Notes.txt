@@ -1,1 +1,14 @@
+Welcome to Python in Tamil - Day 10
+-----------------------------------
+1. Q & A
+2. File Handling
 
+Today's Topics:
+ - Opening a file
+ - Read a content from a file
+ - Create a file 
+ - Adding the content
+ - Append the content
+ - Closing a file
+ 
+ Use with block option for file handling.
