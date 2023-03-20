@@ -1,0 +1,21 @@
+1. Create a file with the below contents using python.
+
+File Name: serverdata.txt
+Content:
+
+Server Name : server1.apac.com
+Domain      : APAC
+IP Address  : 18.23.62.2
+OS Name     : Windows 2016 Standard Server
+Antivirus Status: Installed
+AV Name     : Windows Defender
+AV Version  : 10.3.5
+
+2. Add more contents like above for multiple servers.
+
+3. List down the server names from the serverdata.txt file.
+
+4. Fetch AV Details in the below formats.
+
+Server Name - AV Name - AV Version
+Example: server1 - Windows Defender - 10.3.5
