@@ -1,1 +1,37 @@
 Welcome to Python in Tamil - Day 12
+-----------------------------------
+Oops Concept - Object, Class
+Python Modules, Packages, Classes, Methods/Functions, Properties
+
+1. Oops
+2. Benefits
+3. Object
+4. Properties
+5. Methods
+6. Class
+
+
+Netapp\d+
+
+Netapp0001
+Netapp0002
+Netapp0023
+Netapp2000
+
+
+OS - object
+OS Name = Windows 2012, Caption, Build version, etc., --> properties
+Methods - reboot, shutdown
+
+
+service -- object
+service name --> winrm, spooler, description --> properties
+methods --> start, stop, resume, pause
+
+
+string -- object
+methods --> split, len, startswith, etc.,
+
+
+variable --> a = 10, b = 20 --> properties
+methods --> add(a,b) --> a+b
