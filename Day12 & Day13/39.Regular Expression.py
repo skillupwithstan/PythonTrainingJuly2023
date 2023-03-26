@@ -83,8 +83,13 @@ if(re.search(r"Neo\s","Neopolean") != None):
 else:
     print("Pattern not found")
 
-'''
 if(re.search(r"Arockia|Neo","Neopolean") != None):
     print("Pattern found")
 else:
     print("Pattern not found")
+'''
+
+print(re.search("N\d","['N1','N3','Neo']").group())
+print(re.findall("N\d","['N1','N3','Neo']"))
+pattern = re.compile("N\d")
+print(re.findall(pattern,"['N1','N3','Neo']"))
