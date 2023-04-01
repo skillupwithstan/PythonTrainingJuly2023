@@ -1,0 +1,78 @@
+Welcome to Python in Tamil - Day 14
+-----------------------------------
+Feedback
+Q&A
+New Topics
+ --> Date & Time
+ --> sys modules
+ --> User defined functions
+ 
+if()
+filter = 25/12/2022
+
+Python
+--> lib
+ 	-->packages
+ 		--> modules (import datetime)
+          		--> classes (date, time, datetime)
+              		--> methods & properties
+
+datetime
+--------
+	class datetime:
+		date()
+		time()
+		year,
+		month,
+		day
+
+		def date(df):
+		    return sys.datetime
+	
+Calling a method: datetime.datetime.date()
+Calling a property: datetime.datetime.year
+
+
+"q"
+input = "q"
+input.strip() = "q"
+
+"q " --> "q"
+" q" --> "q"
+" q " --> "q"
+
+
+
+-----------------------------------------------------------------
+
+
+Ansible, Orchestration (vRO,Scorch)
+
+python addition.py 23 45
+
+sys.argv[1]
+sys.argv[2]
+
+result = sys.argv[1] + sys.argv[2]
+
+
+
+Ansible playbook
+-----------------
+
+vars:
+	enter the value1:
+register: num1
+	enter the value2:
+register: num2 
+
+- script:
+     addition.py num1 num2
+
+
+addition.py
+-----------
+result = sys.argv[1] + sys.argv[2]
+
+
+input(enter the value1:)
