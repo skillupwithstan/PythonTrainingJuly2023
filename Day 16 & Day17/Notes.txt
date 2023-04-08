@@ -1,0 +1,33 @@
+Welcome to Python - Day 16 & Day 17
+-----------------------------------
+Q&A:
+  Date & Time Concepts
+  Sys module
+
+New Topic:
+
+User Defined Functions:
+-----------------------
+ --> To create your own methods/functions
+ --> It will work with/without an arguments/input parameters
+ --> It always return value
+
+def add():
+   result
+   return result
+
+n = 5
+
+1*1 = 1
+2*2 = 4
+3*3 = 9
+4*4 = 16
+5*5 = 25
+
+OS Module:
+---------
+
+The OS module in Python provides functions for interacting with the operating system. 
+This module provides a portable way of using operating system-dependent functionality. 
+OS comes under Python’s standard utility modules. 
+The os and os.path modules include many functions to interact with the file system.
