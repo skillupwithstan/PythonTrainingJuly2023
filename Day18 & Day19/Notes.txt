@@ -1,6 +1,59 @@
-Welcome to Python - Day18
--------------------------
+Welcome to Python (in Tamil) - Day 18
+-------------------------------------
 
-Q & A
-New Topics:
-   
+--> Errors/Exceptions
+    --> Types
+    --> Examples
+
+--> Lambda Functions
+
+--> Classes in detailed
+
+
+Exception handling in other languages:
+-------------------------------------
+try
+{
+	
+}
+catch
+{
+		
+}
+finally
+{
+		
+}
+
+Ansible
+-------
+- block
+- rescue
+- always
+
+In Python
+---------
+
+try:
+
+except:
+
+else:
+
+finally:
+
+
+Inheritance:
+------------
+
+Parent class --> Vehicle --> System
+Child/Sub Class --> Van, Car, Truck --> OS
+
+Types:
+		A --> B
+		
+		A & B --> C
+
+		A --> B --> C
+
+		A --> B --> C & D   
