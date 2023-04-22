@@ -1,0 +1,31 @@
+Welcome to Python in Tamil - Day 20
+-----------------------------------
+
+1. Basic Infra. Automation - Windows Service Management
+2. DB integration - MySQL
+3. API Management
+
+
+Requirement - To fetch service information from the server
+
+Input -->
+1. fqdn,ip 
+2. service name
+3. action - fetch service status, stop service, start service, restart service
+
+dependency: credentials, python module (win32serviceutil)
+
+1. to get inputs from the end user --> service_name = input("Enter the service name")
+2. validate the input
+2.1. to check empty value --> service_name = ""
+2.2. they entered multiple values or not --> servicename = winrm, spooler
+3. iterate the services based on the user inputs --> for loop
+4. check the status of each services --> win32serviceutil.QueryServiceStatus(winrm)
+5. Print the required outputs
+
+
+Output -->
+
+1. service name
+2. description
+3. service status
