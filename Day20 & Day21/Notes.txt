@@ -29,3 +29,23 @@ Output -->
 1. service name
 2. description
 3. service status
+
+PROD Application: 
+https://abcprod-service-now.com/
+
+UAT
+https://abcuat-service-now.com/
+
+DEV
+https://abcdev-service-now.com/
+
+API --> PROD, UAT, DEV
+
+https://abcprod-service-now.com/api
+credentials - username, pwd
+
+https://abcprod-service-now.com/documentation
+API documentation --> Project specific, General
+
+ansible --> uri module  --> get(), post(), put(), delete()
+python --> requests module --> get(), post(), put(), delete()
