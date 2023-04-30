@@ -1,0 +1,7 @@
+Welcome to Python - Day 22
+--------------------------
+
+1. Q & A
+2. Urllib3 module
+3. wmi - remoting - execution policy (remotesigned), firewall, winrm config - http/https port
+4. remote execution - winrm, paramiko
