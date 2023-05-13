@@ -1,1 +1,81 @@
+Welcome to Python - Day 23
+--------------------------
 
+1. eMail notification
+2. Netapp cluster creation
+3. DB server backup configuration - Networker
+
+
+Task: Server Build Automation
+
+Hostname: XYZ
+IP: 1.34.5.6
+Monitoring Status: Success
+Backup Status : Failed (Job ID)
+CMDB: Success
+
+
+
+try:
+safdsf
+dsg
+dsg
+dgsg
+
+email notification for success case
+
+
+except Exception as ex
+
+body = ex.message
+
+email notification for failure case
+
+
+
+
+#finally:
+
+
+
+
+We can create an ONTAP Select cluster using the script this script based on the CLI parameters and contents of the JSON input file.
+
+The CLI input parameters for the script include:
+
+Host name or IP address of the Deploy server
+
+Password for the admin user account
+
+Name of the JSON configuration file
+
+Verbose flag for message output
+
+
+
+
+vcenter: safdsfdsf.abc.net
+hosts: 
+ip:
+storage:
+network:
+
+
+
+Storage : NETAPP API  -  Netapp python module - create a cluster
+
+Backup : Networker API - Configure backup for MSSQL DB server
+
+
+args --> no. of input parameters --> individual value
+**kwargs --> keyword arguments --> dictionary value
+
+
+1. Proper headers --> Date & Time, Created/Author, Description, Purpose/Dependency, etc.,
+2. Input parameters --> args
+3. Validation
+4. Resource assignment
+5. API Calls
+6. Logging methods
+7. Final Output/Presentation
+8. Exception Handling
