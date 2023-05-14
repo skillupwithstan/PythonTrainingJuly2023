@@ -79,3 +79,68 @@ args --> no. of input parameters --> individual value
 6. Logging methods
 7. Final Output/Presentation
 8. Exception Handling
+
+
+Welcome to Python - The Last Day
+--------------------------------->>>
+
+1. Advanced Python Techniques - Infra Automation
+2. Best Practices
+3. Web Framework
+4. Reference
+5. Q & A
+
+
+NetApp WFA, vRealize Orchestrator (vRO), HPOO, BAO, System Center Orchestrator, ServiceNow Workflow
+----------------------------------------------------------------------------------------------------
+
+Task: Capacity Report
+
+Start
+
+Input
+
+Validation
+
+Ping test
+
+Fetch Data
+
+Process Data
+
+Format/Presentation
+
+Notification
+
+End
+
+
+DevOps --> CI/CD
+----------------
+Jenkins --> Integration tools
+Ansible, Salt, Puppet, Chef --> Configuration Management
+Splunk
+Terraform, vRA --> Provisioning
+
+
+WebPage
+-------
+Track: Wintel, Unix, Storage, Backup
+Task: Service Check, Service Start, Stop Service, Get Software Version
+
+Input:
+
+Enter the service name: winrm
+
+Submit
+
+
+Output:
+
+Winrm status: Running
+
+
+---------------------------------------
+
+MVC --> Model, View, Controller
+MVT --> Model, View, Template
